@@ -1,0 +1,9 @@
+body{
+    background-color: purple;
+    display: flex;
+    width: 100VW;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
